@@ -1,0 +1,9 @@
+config.py
+venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+.DS_Store
+# Ignore Python cache files
+__pycache__/
+*.pyc
